@@ -6,3 +6,4 @@ artifacts/
 coverage*
 .env
 .idea/
+.DS_Store
